@@ -3,5 +3,7 @@ using namespace std;
 
 class mahasiswa {
 public:
-	sta
+	static int nim;
+	int id;
+	string nama;
 };
