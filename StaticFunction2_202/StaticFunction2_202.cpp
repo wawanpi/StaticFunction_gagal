@@ -6,6 +6,11 @@ class mahasiswa {
 private:
 	static int nim;
 public:
+	int id;
+	string nama;
+
+	void setID();
+	void setALL();
 
 };
 
